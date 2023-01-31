@@ -1,0 +1,174 @@
+{
+  "main": {
+    "id": "f72e4c3047a12c6f",
+    "type": "split",
+    "children": [
+      {
+        "id": "c95024c5e36e4545",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "edffb8db0d0737e4",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Obsidian Help.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "04917b4160a2f6e1",
+    "type": "split",
+    "children": [
+      {
+        "id": "6a0a64d6d8d0cee4",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "0125f2c2efd7edca",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "37ae50f0513a3943",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "8eb749fca0a43d08",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 373.5
+  },
+  "right": {
+    "id": "78a6575e94b396c9",
+    "type": "split",
+    "children": [
+      {
+        "id": "4c1a1e8bd22592d3",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "de04d8e9b07e2fb6",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Obsidian Help.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "5c92b3629c939e7b",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Obsidian Help.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "24fca3dfc5224b19",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "af96b9fa12cee598",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Obsidian Help.md"
+              }
+            }
+          },
+          {
+            "id": "237657a7b4818ba6",
+            "type": "leaf",
+            "state": {
+              "type": "video-view",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 3
+      }
+    ],
+    "direction": "horizontal",
+    "width": 417.5
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "remotely-save:Remotely Save": false,
+      "obsidian-excalidraw-plugin:Create new drawing": false,
+      "workspaces:Manage workspace layouts": false,
+      "obsidian-to-notion:Share to notion": false
+    }
+  },
+  "active": "edffb8db0d0737e4",
+  "lastOpenFiles": [
+    "Health Check.md",
+    "Obsidian Help.md",
+    "Excalidraw/Obsidian Help.md",
+    "Software/Data/Databases/Yugabyte.md",
+    "Software/Webdev/Streams/JSX - 27th Jan 2023.md",
+    "Software/Programming/Performance Testing.md",
+    "Software/Data/Databases/Clickhouse.md",
+    "Software/Data/Databases/Hussein Nasser's Udemy Course.md",
+    "Pasted image 20230131011934.png",
+    "Pasted image 20230131011926.png"
+  ]
+}
